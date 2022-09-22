@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cfa5467-74d9-4a27-924e-211a16c79591" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/festmenyek.csv" afterDir="false" />
+    <list default="true" id="5cfa5467-74d9-4a27-924e-211a16c79591" name="Changes" comment="Fájlbeolvasás">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Festmeny.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Festmeny.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663826862153</updated>
-      <workItem from="1663826863456" duration="4965000" />
+      <workItem from="1663826863456" duration="5354000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1663827280707</created>
@@ -85,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663827280707</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fájlbeolvasás">
+      <created>1663831903339</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663831903339</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Fájlbeolvasás" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fájlbeolvasás" />
   </component>
 </project>
